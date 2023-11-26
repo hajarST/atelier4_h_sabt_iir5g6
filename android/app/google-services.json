@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538852194792",
+    "project_id": "atelier4-h-sabt-iir5g6",
+    "storage_bucket": "atelier4-h-sabt-iir5g6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538852194792:android:aff07244c3a932a8910c5d",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_h_sabt_iir5g6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNENFeAAsekR1aOfqzYKrJCf-u4veY6Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
